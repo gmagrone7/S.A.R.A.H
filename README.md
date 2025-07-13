@@ -12,7 +12,13 @@ AI → It uses artificial intelligence
 
 Hub → It acts as a hub that aggregates sources (APIs, social media, web, etc.)
 
-The pipeline will work in this way:
+# Tools and knowledge that i used:
+
+UX PROTOTYPE: Figma + Color Design Theory
+IDE: Vs Code
+Front-end: Vue.js 3
+
+# The pipeline will work in this way:
 
 1. First we create a vue.js app, to create it, you can follow this tutorial given by dev.to
    https://dev.to/osalumense/install-tailwind-css-v4-in-a-vue-3-vite-project-319g
